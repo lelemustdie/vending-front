@@ -1,0 +1,33 @@
+/* Vending.css */
+.vending-container {
+    margin: 20px auto; /* Set top and bottom margin to 20px, and left/right margin to auto */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 400px;
+}
+
+.filter-input {
+    margin-bottom: 10px;
+}
+
+.button-group {
+    margin-bottom: 15px;
+}
+
+.data-list {
+    list-style: none;
+    padding: 0;
+    width: 400px; /* Set the width of the data list */
+}
+
+.data-item {
+    border: 1px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.button-group button {
+    margin-right: 10px;
+}
